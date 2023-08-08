@@ -28,7 +28,3 @@ To run MeetLy on your local machine or server, follow these steps:
 6. Once inside the conference, you can mute/unmute your audio and video using the controls provided.
 7. Utilize the screen sharing option to present your screen or any specific application window during the meeting.
 8. Use the chat feature to send text messages to other participants in real-time.
-
-# Acknowledgments
-
-A special thanks to Dennis(Traversy media) for their educational and inspiring video tutorial on building a video conferencing system. Their content served as the foundation for this project, and their clear explanations were instrumental in understanding the concepts of WebRTC and Agora integration.
